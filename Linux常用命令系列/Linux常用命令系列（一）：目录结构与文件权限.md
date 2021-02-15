@@ -1,5 +1,6 @@
 ﻿@[toc]
 
+## 同步GitHub在此 👉 [https://github.com/TeFuirnever/GXL-Skill-Tree](https://github.com/TeFuirnever/GXL-Skill-Tree)
 ## Linux介绍
 Linux 是在计算机上面运行的，那么它是一组软件还是一段程序？又或者它是操作系统或者应用程序？又或者它是在计算机软件上运行还是在计算机硬件上运行？Linux和Windows谁厉害？
 
@@ -413,7 +414,7 @@ tar -xzvf abc.tar.gz 一步到位，从tar.gz变成普通文件
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210215160222202.png#pic_center)
 
-## bzip命令
+## bzip2命令
 bzip2 abc.tar 压缩文件为abc.tar.bz2
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210215160521442.png#pic_center)
