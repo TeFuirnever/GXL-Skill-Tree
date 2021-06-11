@@ -2,7 +2,7 @@
 
 ## 同步GitHub在此 👉 [https://github.com/TeFuirnever/GXL-Skill-Tree](https://github.com/TeFuirnever/GXL-Skill-Tree)
 ## Linux文件权限chmod
-在上一个博客（[Linux常用命令系列（一）：目录结构与文件权限](https://blog.csdn.net/TeFuirnever/article/details/113784308?spm=1001.2014.3001.5501)）中讲解了文件权限的含义以及具体代表的权限，这个博客会讲解如何修改权限以达到更大的使用灵活性和限制性。
+在上一个博客（[LinuxC++开发面试系列（一）：目录结构与文件权限](https://blog.csdn.net/TeFuirnever/article/details/113784308?spm=1001.2014.3001.5501)）中讲解了文件权限的含义以及具体代表的权限，这个博客会讲解如何修改权限以达到更大的使用灵活性和限制性。
 
 权限的种类共三种，即字符rwx。
 - r代表可读（read）
