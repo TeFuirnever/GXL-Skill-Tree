@@ -44,7 +44,7 @@
 |--|--|--|--|--|
 |*************************** 1st Week|
 |剑指 Offer 03	|数组中重复的数字  	|[C++版本题解](https://tefuirnever.blog.csdn.net/article/details/118445391)	|67.0%	|简单|
-|剑指 Offer 04	|二维数组中的查找  	|C++版本题解	|40.9%	|简单|
+|剑指 Offer 04	|二维数组中的查找  	|[C++版本题解](https://tefuirnever.blog.csdn.net/article/details/118467105)	|40.9%	|简单|
 |剑指 Offer 05	|替换空格  					|C++版本题解	|76.8%	|简单|
 |剑指 Offer 06	|从尾到头打印链表  	|C++版本题解	|75.8%	|简单|
 |剑指 Offer 07	|重建二叉树  				|C++版本题解	|67.8%	|中等|
