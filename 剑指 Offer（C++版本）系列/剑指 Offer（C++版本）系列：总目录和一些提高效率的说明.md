@@ -43,7 +43,7 @@
 |  题号|  题目| 题解| 通过率|难度|
 |--|--|--|--|--|
 |*************************** 1st Week|
-|剑指 Offer 03	|数组中重复的数字  	|C++版本题解	|67.0%	|简单|
+|剑指 Offer 03	|数组中重复的数字  	|[C++版本题解](https://tefuirnever.blog.csdn.net/article/details/118445391)	|67.0%	|简单|
 |剑指 Offer 04	|二维数组中的查找  	|C++版本题解	|40.9%	|简单|
 |剑指 Offer 05	|替换空格  					|C++版本题解	|76.8%	|简单|
 |剑指 Offer 06	|从尾到头打印链表  	|C++版本题解	|75.8%	|简单|
@@ -139,9 +139,13 @@
 
 本文由 leetcode、牛客、公众哈哦、知乎共同支持！
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210703094425459.png)
+[https://leetcode-cn.com/u/tefuirnever/](https://leetcode-cn.com/u/tefuirnever/)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210703094436257.png)
+[https://blog.nowcoder.net/wsguanxl](https://blog.nowcoder.net/wsguanxl)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210703094516804.png)
+[https://mp.weixin.qq.com/s/bDwxwQfZytIx4mAn8eK20Q](https://mp.weixin.qq.com/s/bDwxwQfZytIx4mAn8eK20Q)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2021070309445723.png)
+[https://www.zhihu.com/people/tefuirnever_-.-](https://www.zhihu.com/people/tefuirnever_-.-)
 
 
